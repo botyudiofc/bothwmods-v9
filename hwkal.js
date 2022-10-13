@@ -18,21 +18,21 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 //=================================================//
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = 'https://youtube.com/c/HwModsWa857' // ubah aia
-global.ig = 'https://www.instagram.com/hikal_857/?hl=id' // ubah aja
-global.email = 'denyp857@gmail.com'
-global.region = 'indonesia'
+global.youtube = 'https://youtube.com/' // ubah aia
+global.ig = 'https://www.instagram.com/lebihkerendariandy_warholl.id' // ubah aja
+global.email = 'wahyudi.my.id@gmail.com'
+global.region = 'pluto'
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'HW MODS WA' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'HW MODS WA' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'HW MODS WA' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'AKATSUKI' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'KETUDSBOTz' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'AKATSUKI' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6281214281312'] // ubah aja pake nomor lu
-global.premium = ['6281214281312'] // ubah aja pake nomor lu
-global.packname = 'HW MODS WA' // ubah aja
-global.ownerr = ['HW MODS WA'] // ubaha aja
-global.author = 'HW MODS WA' //ubah aja
+global.owner = ['12488278213'] // ubah aja pake nomor lu
+global.premium = ['6285693650294'] // ubah aja pake nomor lu
+global.packname = 'KETUDSBOTZ' // ubah aja
+global.ownerr = ['AKATSUKI'] // ubaha aja
+global.author = 'AKATSUKI' //ubah aja
 global.sessionName = './sessionye/haikal' //Gausaj Di Ubah
 global.prefa = ['','!','.',',','🐤','🗿'] // Gausah Mendingan 
 global.sp = '⭔' // Gausah Juga

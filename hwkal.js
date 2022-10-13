@@ -33,7 +33,7 @@ global.premium = ['6285693650294'] // ubah aja pake nomor lu
 global.packname = 'KETUDSBOTZ' // ubah aja
 global.ownerr = ['AKATSUKI'] // ubaha aja
 global.author = 'AKATSUKI' //ubah aja
-global.sessionName = './sessionye/haikal' //Gausaj Di Ubah
+global.sessionName = '' //Gausaj Di Ubah
 global.prefa = ['','!','.',',','🐤','🗿'] // Gausah Mendingan 
 global.sp = '⭔' // Gausah Juga
 
